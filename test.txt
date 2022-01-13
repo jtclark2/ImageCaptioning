@@ -1,0 +1,11 @@
+./.ipynb_checkpoints/0_Dataset-checkpoint.ipynb
+./.ipynb_checkpoints/0_Dataset-zh-checkpoint.ipynb
+./.ipynb_checkpoints/1_Preliminaries-checkpoint.ipynb
+./.ipynb_checkpoints/1_Preliminaries-zh-checkpoint.ipynb
+./.ipynb_checkpoints/2_Training-checkpoint.ipynb
+./.ipynb_checkpoints/2_Training-zh-checkpoint.ipynb
+./.ipynb_checkpoints/3_Inference-checkpoint.ipynb
+./.ipynb_checkpoints/3_Inference-zh-checkpoint.ipynb
+./.ipynb_checkpoints/4_Zip Your Project Files and Submit-checkpoint.ipynb
+./.ipynb_checkpoints/4_Zip Your Project Files and Submit-zh-checkpoint.ipynb
+./.ipynb_checkpoints/Zip_All_Files-checkpoint.ipynb
